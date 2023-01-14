@@ -1,0 +1,29 @@
+{
+    "json.schemas": [
+    ],
+"editor.tokenColorCustomizations": {
+    "textMateRules": [
+        {
+            "scope": "verifast-ghost-range",
+            "settings": {
+                "foreground": "#c0341ccb"
+            }
+        },
+        {
+            "scope": "verifast-ghost-keyword",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#2b9b67"
+            }
+        },
+        {
+            "scope": "verifast-ghost-range-delimiter",
+            "settings": {
+                "fontStyle": "bold",
+                "foreground": "#808080"
+            }
+        }
+    ],
+}
+}
+
